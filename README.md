@@ -46,7 +46,19 @@ I'm a high school student at **Lycée 15 Octobre, Bizerte, Tunisia**, in love wi
 
 
 <p align="center">
-  <img src="hhttps://github-readme-stats.hackclub.dev/api/wakatime?username=11875&api_domain=hackatime.hackclub.com&theme=synthwave&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8"/>
+  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=11875&api_domain=hackatime.hackclub.com&theme=neon&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8"/>
+</p>
+
+---
+
+##  Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IlefZenkri/IlefZenkri/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IlefZenkri/IlefZenkri/output/github-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/IlefZenkri/IlefZenkri/output/github-snake.svg" />
+  </picture>
 </p>
 
 ---
@@ -55,7 +67,13 @@ I'm a high school student at **Lycée 15 Octobre, Bizerte, Tunisia**, in love wi
 
 <p align="center">
   <a href="mailto:ilef@zenkri.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/ilef-zenkri">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/IlefZenkri">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
