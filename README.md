@@ -13,7 +13,7 @@
 
 ##  About Me
 
-I'm a high school student at **Lycée 15 Octobre, Bizerte, Tunisia**, in love with building things — whether it's designing and 3D printing parts, wiring up Arduino projects, or solving tricky algorithm problems. I enjoy turning ideas into real, working prototypes and learning something new every day.
+I'm a CS student at **TUB**, in love with building things — whether it's designing and 3D printing parts, wiring up Arduino projects, or solving tricky algorithm problems. I enjoy turning ideas into real, working prototypes and learning something new every day.
 
 ---
 
