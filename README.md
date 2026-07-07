@@ -1,16 +1,73 @@
-## Hi there 👋
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" width="100%">
+<p>&nbsp;</p>
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1500&color=F75C7E&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Ilef+Zenkri!;High+School+Student+in+Bizerte%2C+Tunisia+%F0%9F%87%B9%F0%9F%87%B3;Passionate+about+3D+Printing+%F0%9F%96%A8%EF%B8%8F+%26+Arduino+%F0%9F%94%8C;Algorithm+Enthusiast+%26+Problem+Solver+%F0%9F%A7%A0;Building+with+C%2C+Arduino+(C%2B%2B)%2C+and+Python"
+    alt="Typing SVG"
+  />
+</a>
+</div>
 
-<!--
-**ilefzenkri/ilefzenkri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+##  About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a high school student at **Lycée 15 Octobre, Bizerte, Tunisia** 🇹🇳, in love with building things — whether it's designing and 3D printing parts, wiring up Arduino projects, or solving tricky algorithm problems. I enjoy turning ideas into real, working prototypes and learning something new every day.
+
+---
+
+##  Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,arduino,py,git,github,vscode&theme=dark" />
+</p>
+
+<details>
+<summary><b>📚 Detailed Breakdown</b></summary>
+<br>
+
+> **💻 Languages:** C · Python · Arduino (C++)
+>
+> **🖨️ Design & Fabrication:** 3D Modeling · Slicing · 3D Printing
+>
+> **🔌 Electronics:** Arduino · Sensors · Circuits
+>
+> **🛠️ Tools:** Git · GitHub · VS Code
+>
+> **🧠 Other:** Algorithms · Problem Solving
+
+</details>
+
+---
+
+##  GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IlefZenkri&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlefZenkri&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IlefZenkri&theme=radical&hide_border=true" />
+</p>
+
+---
+
+##  Connect with Me
+
+<p align="center">
+  <a href="mailto:ilef@zenkri.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+###  Always excited to build something cool — let's create! 🚀
+
+<img src="https://komarev.com/ghpvc/?username=IlefZenkri&style=flat-square&color=blueviolet" alt="Profile views" />
+
+</div>
