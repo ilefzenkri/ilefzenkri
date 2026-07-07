@@ -3,7 +3,7 @@
 <p>&nbsp;</p>
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1500&color=F75C7E&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Ilef+Zenkri!;High+School+Student+in+Bizerte%2C+Tunisia;Passionate+about+3D+Printing+%F0%9F%96%A8%EF%B8%8F+%26+Arduino+%F0%9F%94%8C;Algorithm+Enthusiast+%26+Problem+Solver+%F0%9F%A7%A0;Building+with+C%2C+Arduino+(C%2B%2B)%2C+and+Python"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1500&color=F75C7E&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Ilef+Zenkri!;A+Student+at+TUBerlin;Passionate+about+3D+Printing+%F0%9F%96%A8%EF%B8%8F+%26+Arduino+%F0%9F%94%8C;Algorithm+Enthusiast+%26+Problem+Solver+%F0%9F%A7%A0;Building+with+C%2C+Arduino+(C%2B%2B)%2C+and+Python"
     alt="Typing SVG"
   />
 </a>
